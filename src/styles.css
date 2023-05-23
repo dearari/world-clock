@@ -35,6 +35,7 @@ h2 {
   font-size: 28px;
   text-transform: uppercase;
   letter-spacing: 1px;
+  text-align: left;
   padding-left: 30px;
   padding-top: 10px;
   margin: 0 0 5px;
@@ -72,6 +73,7 @@ h2 {
   vertical-align: top;
   line-height: 45px;
   opacity: 0.8;
+  text-transform: uppercase;
 }
 .credit {
   font-family: "Roboto", sans-serif;
