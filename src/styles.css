@@ -1,3 +1,20 @@
 body {
-  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  background: linear-gradient(90deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+.container {
+  background: #fff;
+  max-width: 700px;
+  border-radius: 4px;
+  margin: 20px auto;
+  padding: 0px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  color: #b7a291;
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
