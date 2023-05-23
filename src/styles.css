@@ -18,3 +18,18 @@ h1 {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+.credit {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: #b7a291;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+.credit a {
+  color: #b7a291;
+  text-decoration: none;
+}
+.credit a:hover {
+  color: #e2d1c3;
+}
